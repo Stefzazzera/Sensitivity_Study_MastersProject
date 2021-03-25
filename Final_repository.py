@@ -1,3 +1,9 @@
+################################################################################################################
+# This code stores all the functions and methods used in my Master's Project: 
+# A sensitivity study of third-generation gravitational waves detectors using binary black hole encounters. 
+# Required packages for the usage of this code: minke, lalsimulation.
+################################################################################################################
+
 import numpy as np
 import minke.distribution
 import minke.sources
